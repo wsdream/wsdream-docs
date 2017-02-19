@@ -118,3 +118,10 @@ Total (52)  [**B**]ook (1)  [**J**]ournal (21)  [**C**]onference (30)
 .. [#ZhengMLK09] [C] "`WSRec: A Collaborative Filtering Based Web Service Recommender System <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5175854>`_," Zibin Zheng, Hao Ma, Michael R. Lyu, and Irwin King, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2009. [`Code <https://github.com/wsdream/WSRec/tree/master/UIPCC>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/ZhengMLK09>`_][`Citation <https://scholar.google.com/scholar?cites=18284678715643678253>`_](Journal version: [#ZhengMLK11]_)
 
 .. [#] [C] "`WS-DREAM: A Distributed Reliability Assessment Mechanism for Web Services <http://ieeexplore.ieee.org/document/4630108/?tp=&arnumber=4630108>`_," Zibin Zheng, and Michael R. Lyu, *in Proc. of the Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2008. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/dsn/ZhengL08>`_]
+
+
+
+
+Copyright |copy| 2017, `WS-DREAM <http://wsdream.github.io/>`_, CUHK
+
+.. |copy|   unicode:: U+000A9 .. COPYRIGHT SIGN
