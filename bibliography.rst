@@ -1,13 +1,13 @@
 :tocdepth: 3
 
 =====================================================
-A Bibliography on Web Service Recommendation Research
+A Bibliography of Web Service Recommendation Research
 =====================================================
 
 .. module:: bibliography
 .. moduleauthor:: WS-DREAM Team, CUHK
 
-This document maintains a list of papers within the research topic of Web service recommendation. These papers have used our WS-DREAM datasets or (and) cited our papers about WS-DREAM. The list is maintained only for research purposes and will be updated from time to time. If you have any enquires, please feel free to contact us (wsdream.maillist@gmail.com).
+This document maintains a list of papers within the research theme of Web service recommendation. These papers have used our WS-DREAM datasets and (or) cited our papers about WS-DREAM. The list is maintained only for research purposes and will be updated from time to time. If you have any enquires, please feel free to contact us (wsdream.maillist@gmail.com).
 
 +---------------------+----------------------------------------------------------------+
 | **Summary**         |                                                                |
@@ -136,19 +136,19 @@ This document maintains a list of papers within the research topic of Web servic
 
 .. [#] [C] "**Semantic Pattern Mining Based Web Service Recommendation**," Hafida Naïm, Mustapha Aznag, Nicolas Durand, Mohamed Quafafou, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
 
-.. [#] [C] "**Personalized API Recommendation via Implicit Preference Modeling," Wei Gao, Liang Chen, Jian Wu, Hai Dong, Athman Bouguettaya, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
+.. [#] [C] "**Personalized API Recommendation via Implicit Preference Modeling**," Wei Gao, Liang Chen, Jian Wu, Hai Dong, Athman Bouguettaya, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
 
-.. [#] [C] "**Meta-Path Based Service Recommendation in Heterogeneous Information Networks," Tingting Liang, Liang Chen, Jian Wu, Hai Dong, and Athman Bouguettaya, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
+.. [#] [C] "**Meta-Path Based Service Recommendation in Heterogeneous Information Networks**," Tingting Liang, Liang Chen, Jian Wu, Hai Dong, and Athman Bouguettaya, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
 
-.. [#] [C] "**Service Recommendation Based on Social Balance Theory and Collaborative Filtering," Lianyong Qi, Wanchun Dou, Xuyun Zhang, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
+.. [#] [C] "**Service Recommendation Based on Social Balance Theory and Collaborative Filtering**," Lianyong Qi, Wanchun Dou, Xuyun Zhang, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2016.
 
-.. [#] [C] "**A Novel QoS Prediction Approach for Cloud Service Based on Bayesian Networks Model," Pengcheng Zhang, Qing Han, Wenrui Li, Hareton Leung, Wei Song, *in Proc. of IEEE International Conference on Mobile Services*, 2016.
+.. [#] [C] "**A Novel QoS Prediction Approach for Cloud Service Based on Bayesian Networks Model**," Pengcheng Zhang, Qing Han, Wenrui Li, Hareton Leung, Wei Song, *in Proc. of IEEE International Conference on Mobile Services*, 2016.
 
-.. [#] [C] "**CluCF: a Clustering CF Algorithm to Address Data Sparsity Problem," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service Oriented Computing and Applications (SOCA)*, 2016.
+.. [#] [C] "**CluCF: a Clustering CF Algorithm to Address Data Sparsity Problem**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service Oriented Computing and Applications (SOCA)*, 2016.
 
-.. [#] [C] "**A Web Service QoS Prediction Approach based on Time- and Location-aware Collaborative Filtering," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service Oriented Computing and Applications (SOCA)*, 2016.
+.. [#] [C] "**A Web Service QoS Prediction Approach based on Time- and Location-aware Collaborative Filtering**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service Oriented Computing and Applications (SOCA)*, 2016.
 
-.. [#] [C] "**Temporal Pattern Based QoS Prediction," Liang Chen, Haochao Ying, Qibo Qiu, Jian Wu, Hai Dong, and Athman Bouguettaya, *in Proc. of International Conference on Web Information Systems Engineering (WISE)*, 2016.
+.. [#] [C] "**Temporal Pattern Based QoS Prediction**," Liang Chen, Haochao Ying, Qibo Qiu, Jian Wu, Hai Dong, and Athman Bouguettaya, *in Proc. of International Conference on Web Information Systems Engineering (WISE)*, 2016.
 
 
 |
