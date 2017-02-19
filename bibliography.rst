@@ -33,7 +33,7 @@ This document maintains a list of papers within the research theme of Web servic
 | **2017** (11) |
 +---------------+
 
-.. [#] [J] "**Online Reliability Prediction via Motifs-based Dynamic Bayesian Networks for Service-Oriented Systems**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, Michael Lyu, Athman Bouguettaya, *IEEE Transactions on Software Engineering (TSE)*, accepted, 2017. [Paper][Bibtex]
+.. [#] [J] "**Online Reliability Prediction via Motifs-based Dynamic Bayesian Networks for Service-Oriented Systems**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, Michael R. Lyu, Athman Bouguettaya, *IEEE Transactions on Software Engineering (TSE)*, accepted, 2017. [Paper][Bibtex]
 
 .. [#] [J] "**An Overview and Classification of Service Description Approaches in Automated Service Composition Research**," Yong-Yi Fanjiang, Yang Syu, Shang-Pin Ma, and Jong-Yih Kuo, *IEEE Transactions on Services Computing (TSC)*, accepted, 2017. [Paper][Bibtex]
 
@@ -199,7 +199,7 @@ This document maintains a list of papers within the research theme of Web servic
 
 .. [#] [J] "**Personalized Manufacturing Service Recommendation using Semantics-based Collaborative Filtering**," Wenyu Zhang, Shanshan Guo, and Shuai Zhang, *Concurrent Engineering: Research and Applications*, 2015.
 
-.. [#] [J] "**Reliability Prediction for Internetware Applications: a Research Framework and its Practical Use**," Zheng Zibin, Meng Jingke, Tao Guanhong, Michael R. Lyu, *China Communications*, 2015.
+.. [#] [J] "**Reliability Prediction for Internetware Applications: a Research Framework and its Practical Use**," Zibin Zheng, Jingke Meng, Guanhong Tao, Michael R. Lyu, *China Communications*, 2015.
 
 .. [#] [C] "`A Privacy-Preserving QoS Prediction Framework for Web Service Recommendation <http://jiemingzhu.github.io/pub/jmzhu_icws2015.pdf>`_," Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2015. [`Code <http://wsdream.github.io/PPCF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/ZhuHZL15>`_]
 
