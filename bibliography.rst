@@ -14,16 +14,17 @@ This document maintains a list of papers within the research topic of Web servic
 +---------------------+----------------------------------------------------------------+
 | [B]ook (1)          | `QoS Management of Web Services <#zhengl13book>`_              |
 +---------------------+----------------------------------------------------------------+
-| [J]ournal (96)      | TOSEM(1), TSE(1), TPDS(2), TSC(16)                             |
+| [J]ournal (90)      | TOSEM(1), TSE(1), TPDS(2), TDSC(1), TSC(24), TCC(2), TNNLS(1), |
+|                     | TWEB(3), TSMC(3), TASE(2), IEEE Access(2), TNSM(2)             |
 +---------------------+----------------------------------------------------------------+
-| [C]onferences (155) | ICSE(2), FSE(1), WWW(1), ICDCS(1), SRDS(2),                    |
-|                     | ISSRE(2), ICWS(48), SCC(19), CCGrid(1)                         |
+| [C]onferences (134) | ICSE(1), FSE(1), WWW(1), INFOCOM(1), ICDCS(1), DSN(1),         |
+|                     | SRDS(2), ISSRE(2), ICWS(54)                                    |
 +---------------------+----------------------------------------------------------------+
 
-=====  =====  =====  =====  =====  =====  =====  =====  =======  =====
-2017_  2016_  2015_  2014_  2013_  2012_  2011_  2010_  `2009`_  Total
- 11     44     xx     74     66     26     19     16       2      255
-=====  =====  =====  =====  =====  =====  =====  =====  =======  =====
+=====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====
+2017_  2016_  2015_  2014_  2013_  2012_  2011_  2010_  2009_  2008_  Total
+ 11     44     38     46     45     17     11     11      1      1     225
+=====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====
 
 |
 .. _2017:
@@ -154,7 +155,7 @@ This document maintains a list of papers within the research topic of Web servic
 .. _2015:
 
 +---------------+
-| **2015** (45) |
+| **2015** (38) |
 +---------------+
 
 
@@ -239,7 +240,7 @@ This document maintains a list of papers within the research topic of Web servic
 .. _2014:
 
 +---------------+
-| **2014** (44) |
+| **2014** (46) |
 +---------------+
 
 
@@ -536,16 +537,24 @@ This document maintains a list of papers within the research topic of Web servic
 .. [#] [C] "**Personalized Context-Aware QoS Prediction for Web Services Based on Collaborative Filtering**," Qi Xie, Kaigui Wu, Jie Xu, Pan He, and Min Chen, *in Proc. of International Conference on Advanced Data Mining and Applications (ADMA)*, 2010.
 
 |
-.. _`2009&before`:
+.. _`2009`:
 
-+----------------------+
-| **2009&before** (2)  |
-+----------------------+
++---------------+
+| **2009** (1)  |
++---------------+
 
 
 .. [#ZhengMLK09] [C] "`WSRec: A Collaborative Filtering Based Web Service Recommender System <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5175854>`_," Zibin Zheng, Hao Ma, Michael R. Lyu, and Irwin King, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2009. [`Code <https://github.com/wsdream/WSRec/tree/master/UIPCC>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/ZhengMLK09>`_][`Citation <https://scholar.google.com/scholar?cites=18284678715643678253>`_](Journal version: [#ZhengMLK11]_)
 
-.. [#] [C] "'WS-DREAM: A Distributed Reliability Assessment Mechanism for Web Services <http://ieeexplore.ieee.org/document/4630108/?tp=&arnumber=4630108>'_," Zibin Zheng, and Michael R. Lyu, *in Proc. of the Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2008. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/dsn/ZhengL08>`_]
+
+|
+.. _`2008`:
+
++---------------+
+| **2008** (1)  |
++---------------+
+
+.. [#] [C] "`WS-DREAM: A Distributed Reliability Assessment Mechanism for Web Services <http://ieeexplore.ieee.org/document/4630108/?tp=&arnumber=4630108>`_," Zibin Zheng, and Michael R. Lyu, *in Proc. of the Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2008. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/dsn/ZhengL08>`_]
 
 
 
