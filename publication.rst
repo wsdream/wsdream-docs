@@ -36,7 +36,7 @@ This document maintains our publications about the WS-DREAM project at CUHK. The
 
 .. [#] [C] "QoS Prediction in Dynamic Web Services with Asymmetric Correlation," Qi Xie, Bing Tang, Zibin Zheng and Mengtian Cui, *in Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, 2015.
 
-.. [#ChenZYL14] [J] "`Web Service Recommendation via Exploiting Location and QoS Information <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6684151>`_," Xi Chen, Zibin Zheng, Qi Yu, and Michael R. Lyu, *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Location-aware/LoRec>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/journals/tpds/ChenZYL14>`_][`Citation <https://scholar.google.com/scholar?cites=2697613415679644669>`_](Conference version: [#ChenLHS10]_)
+.. [#ChenZYL14] [J] "`Web Service Recommendation via Exploiting Location and QoS Information <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6684151>`_," Xi Chen, Zibin Zheng, Qi Yu, and Michael R. Lyu, *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Location-aware/LoRec>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/journals/tpds/ChenZYL14>`_][`Citation <https://scholar.google.com/scholar?cites=2697613415679644669>`_]
 
 .. [#ZhengZL14] [J] "`Investigating QoS of Real-World Web Services <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6357180>`_," Zibin Zheng, Yilei Zhang, and Michael R. Lyu, *IEEE Transactions on Services Computing (TSC)*, 2014. [`Data <https://github.com/wsdream/dataset>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/journals/tsc/ZhengZL14>`_](Conference version: [#ZhengZL10ICWS]_)
 
