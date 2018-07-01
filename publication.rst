@@ -17,13 +17,13 @@ Total (59)  [**B**]ook (1)  [**J**]ournal (23)  [**C**]onference (35)
 
 .. [#] [C] "`Online App Review Analysis for Identifying Emerging Issues <https://www.icse2018.org/event/icse-2018-technical-papers-online-app-review-analysis-for-identifying-emerging-issues>`_," Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, Irwin King, *in Proc. of the 40th International Conference on Software Engineering (ICSE)*, 2018. [Bibtex]
 
-.. [#] [J] "**Towards Automated Log Parsing for Large-Scale Log Data Analysis**," Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu, *IEEE Transactions on Dependable and Secure Computing (TDSC)*, accepted, 2017. [Paper][Bibtex]
+.. [#] [J] "`Towards Automated Log Parsing for Large-Scale Log Data Analysis <https://ieeexplore.ieee.org/document/8067504/>`_," Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu, *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2017. [Paper][Bibtex]
 
-.. [#] [J] "**Online QoS Prediction for Runtime Service Adaptation via Adaptive Matrix Factorization**," Jieming Zhu, Pinjia He, Zibin Zheng, Michael R. Lyu, *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2017. [Paper][Bibtex]
+.. [#] [J] "`Online QoS Prediction for Runtime Service Adaptation via Adaptive Matrix Factorization <https://ieeexplore.ieee.org/document/7918529/>`_," Jieming Zhu, Pinjia He, Zibin Zheng, Michael R. Lyu, *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2017. [Paper][Bibtex]
 
-.. [#] [J] "**Online Reliability Prediction via Motifs-based Dynamic Bayesian Networks for Service-Oriented Systems**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, Michael Lyu, Athman Bouguettaya, *IEEE Transactions on Software Engineering (TSE)*, accepted, 2017. [Paper][Bibtex]
+.. [#] [J] "`Online Reliability Prediction via Motifs-based Dynamic Bayesian Networks for Service-Oriented Systems <https://ieeexplore.ieee.org/document/7585067/>`_," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, Michael Lyu, Athman Bouguettaya, *IEEE Transactions on Software Engineering (TSE)*, 2017. [Paper][Bibtex]
 
-.. [#] [J] "**Learning the Evolution Regularities for Big Service-Oriented Online Reliability Prediction**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, *IEEE Transactions on Services Computing (TSC)*, 2017. [Paper][Bibtex]
+.. [#] [J] "`Learning the Evolution Regularities for Big Service-Oriented Online Reliability Prediction <https://ieeexplore.ieee.org/document/7762161/>`_," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, *IEEE Transactions on Services Computing (TSC)*, 2017. [Paper][Bibtex]
 
 .. [#] [C] "`Drain: An Online Log Parsing Approach with Fixed Depth Tree <https://ieeexplore.ieee.org/document/8029742/>`_," Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu, *in Proc. of the 24th International Conference on Web Service (ICWS)*, 2017. [Bibtex]
 
