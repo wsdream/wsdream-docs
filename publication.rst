@@ -13,7 +13,7 @@ This document maintains our publications about the WS-DREAM project at CUHK. The
 Total (59)  [**B**]ook (1)  [**J**]ournal (23)  [**C**]onference (35) 
 ==========  ==============  ==================  =====================
 
-.. [#] [C] "**Identifying Impactful Service System Problems via Log Analysis**"," Shilin He, Qingwei Lin, Jian-Guang Lou, Hongyu Zhang, Michael R.Lyu, Dongmei Zhang, *in Proc. of the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2018. [Bibtex]
+.. [#] [C] "**Identifying Impactful Service System Problems via Log Analysis**", Shilin He, Qingwei Lin, Jian-Guang Lou, Hongyu Zhang, Michael R.Lyu, Dongmei Zhang, *in Proc. of the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2018. [Bibtex]
 
 .. [#] [C] "`Online App Review Analysis for Identifying Emerging Issues <https://www.icse2018.org/event/icse-2018-technical-papers-online-app-review-analysis-for-identifying-emerging-issues>`_," Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, Irwin King, *in Proc. of the 40th International Conference on Software Engineering (ICSE)*, 2018. [Bibtex]
 
