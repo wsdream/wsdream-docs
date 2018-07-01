@@ -10,7 +10,7 @@ Publications About WS-DREAM
 This document maintains our publications about the WS-DREAM project at CUHK. The list is maintained only for research purpose and will be updated from time to time. If you have any enquires, please feel free to contact us (wsdream.maillist@gmail.com).
 
 ==========  ==============  ==================  =====================
-Total (52)  [**B**]ook (1)  [**J**]ournal (23)  [**C**]onference (30) 
+Total (59)  [**B**]ook (1)  [**J**]ournal (23)  [**C**]onference (35) 
 ==========  ==============  ==================  =====================
 
 .. [#] [C] "**Identifying Impactful Service System Problems via Log Analysis**"," Shilin He, Qingwei Lin, Jian-Guang Lou, Hongyu Zhang, Michael R.Lyu, Dongmei Zhang, *in Proc. of the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2018. [Bibtex]
