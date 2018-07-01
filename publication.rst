@@ -10,14 +10,16 @@ Publications About WS-DREAM
 This document maintains our publications about the WS-DREAM project at CUHK. The list is maintained only for research purpose and will be updated from time to time. If you have any enquires, please feel free to contact us (wsdream.maillist@gmail.com).
 
 ==========  ==============  ==================  =====================
-Total (52)  [**B**]ook (1)  [**J**]ournal (21)  [**C**]onference (30) 
+Total (52)  [**B**]ook (1)  [**J**]ournal (23)  [**C**]onference (30) 
 ==========  ==============  ==================  =====================
 
+.. [#] [J] "**Towards Automated Log Parsing for Large-Scale Log Data Analysis**," Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu, *IEEE Transactions on Dependable and Secure Computing (TDSC)*, accepted, 2017. [Paper][Bibtex]
 
+.. [#] [J] "**Online QoS Prediction for Runtime Service Adaptation via Adaptive Matrix Factorization**," Jieming Zhu, Pinjia He, Zibin Zheng, Michael R. Lyu, *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2017. [Paper][Bibtex]
 
 .. [#] [J] "**Online Reliability Prediction via Motifs-based Dynamic Bayesian Networks for Service-Oriented Systems**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, Michael Lyu, Athman Bouguettaya, *IEEE Transactions on Software Engineering (TSE)*, accepted, 2017. [Paper][Bibtex]
 
-.. [#] [J] "**Learning the Evolution Regularities for Big Service-Oriented Online Reliability Prediction**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, *IEEE Transactions on Services Computing (TSC)*, accepted, 2017. [Paper][Bibtex]
+.. [#] [J] "**Learning the Evolution Regularities for Big Service-Oriented Online Reliability Prediction**," Hongbing Wang, Lei Wang, Qi Yu, Zibin Zheng, *IEEE Transactions on Services Computing (TSC)*, 2017. [Paper][Bibtex]
 
 .. [#] [J] "`Location-Aware and Personalized Collaborative Filtering for Web Service Recommendation <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7108071>`_," Jianxun Liu, Mingdong Tang, Zibin Zheng, Xiaoqing Liu, and Saixia Lyu, *IEEE Transactions on Services Computing (TSC)*, 2016. [Bibtex]
 
